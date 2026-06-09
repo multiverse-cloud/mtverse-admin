@@ -1,0 +1,16 @@
+{
+  "name": "mtverse admin",
+  "short_name": "mtverse",
+  "description": "Premium Tailwind CSS Admin Dashboard with 3000+ Components",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#465fff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
